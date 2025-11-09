@@ -94235,29 +94235,6 @@ entities:
     - type: Transform
       pos: 23.864847,43.7828
       parent: 2
-- proto: PlushieBros
-  entities:
-  - uid: 10247
-    components:
-    - type: Transform
-      rot: 1.5707963267948966 rad
-      pos: 6.392204,-50.040623
-      parent: 2
-  - uid: 10248
-    components:
-    - type: Transform
-      pos: 25.392765,43.360924
-      parent: 2
-  - uid: 10249
-    components:
-    - type: Transform
-      pos: 25.59589,43.610924
-      parent: 2
-  - uid: 10250
-    components:
-    - type: Transform
-      pos: 25.892765,43.329674
-      parent: 2
 - proto: PlushieCaptain
   entities:
   - uid: 10251

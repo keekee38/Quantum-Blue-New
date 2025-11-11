@@ -126,6 +126,16 @@
             sprite: Mobs/Species/Human/displacement.rsi
             state: jumpsuit-female
   - type: Hemorrhage # imp
+  - type: MeleeWeapon # QB: A little caustic damage, as a treat
+    soundHit:
+      collection: Punch
+    angle: 30
+    animation: WeaponArcFist
+    attackRate: 1
+    damage:
+      types:
+        Blunt: 4
+        Caustic: 1
 
 - type: entity
   parent: MobHumanDummy

@@ -31,8 +31,6 @@
     qualities:
     - Slicing
   - type: Sharp
-    useSound:
-      path: /Audio/Items/Culinary/chop.ogg
   - type: MeleeWeapon
     wideAnimationRotation: -135
     attackRate: 0.75
@@ -96,8 +94,6 @@
     qualities:
     - Slicing
   - type: Sharp
-    useSound:
-      path: /Audio/Items/Culinary/chop.ogg
   - type: MeleeWeapon
     wideAnimationRotation: -135
     attackRate: 0.75
